@@ -15,7 +15,7 @@
 <a href="https://github.com/emariot/CAGED-CWB/blob/main/img/9.png" ><img src="https://github.com/emariot/CAGED-CWB/blob/main/img/9.png" align="center" height="400" width="800"  ></a>
 <a href="https://github.com/emariot/CAGED-CWB/blob/main/img/10.png" ><img src="https://github.com/emariot/CAGED-CWB/blob/main/img/10.png" align="center" height="400" width="800"  ></a>
 <a href="https://github.com/emariot/CAGED-CWB/blob/main/img/11.png" ><img src="https://github.com/emariot/CAGED-CWB/blob/main/img/11.png" align="center" height="400" width="700"  ></a>
-<a href="https://github.com/emariot/CAGED-CWB/blob/main/img/12.png" ><img src="https://github.com/emariot/CAGED-CWB/blob/main/img/12.png" align="center" height="400" width="700"  ></a>
+<a href="https://github.com/emariot/CAGED-CWB/blob/main/img/12.png" ><img src="https://github.com/emariot/CAGED-CWB/blob/main/img/12.png" align="center" height="400" width="800"  ></a>
 <a href="https://github.com/emariot/CAGED-CWB/blob/main/img/13.png" ><img src="https://github.com/emariot/CAGED-CWB/blob/main/img/13.png" align="center" height="400" width="700"  ></a>
 <a href="https://github.com/emariot/CAGED-CWB/blob/main/img/14.png" ><img src="https://github.com/emariot/CAGED-CWB/blob/main/img/14.png" align="center" height="400" width="700"  ></a>
 <a href="https://github.com/emariot/CAGED-CWB/blob/main/img/15.png" ><img src="https://github.com/emariot/CAGED-CWB/blob/main/img/15.png" align="center" height="400" width="700"  ></a>
